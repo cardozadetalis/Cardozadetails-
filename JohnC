@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cardoza’s Detailing</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+      color: #333;
+    }
+    header {
+      background-color: #1a1a1a;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    p.tagline {
+      font-size: 1.2em;
+      margin-top: 10px;
+    }
+    section {
+      padding: 30px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .services {
+      background-color: #fff;
+      margin-bottom: 20px;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    footer {
+      background-color: #1a1a1a;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+    }
+    .contact {
+      font-size: 1.2em;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Cardoza’s Detailing</h1>
+  <p class="tagline">Interior Car Detailing in Littleton & Denver</p>
+</header>
+
+<section class="services">
+  <h2>Interior Detailing Services</h2>
+  <ul>
+    <li>Vacuuming & Dust Removal</li>
+    <li>Seat & Carpet Shampoo</li>
+    <li>Interior Surface Cleaning</li>
+    <li>Leather Conditioning</li>
+    <li>Odor Removal</li>
+    <li>Window Cleaning (Interior)</li>
+  </ul>
+</section>
+
+<section class="services">
+  <h2>Why Choose Us?</h2>
+  <p>We bring professional interior detailing directly to your door. Whether at home or work, your vehicle gets the attention it deserves without the hassle.</p>
+</section>
+
+<section class="services contact">
+  Call or Text to Book: <br><br>
+  <a href="tel:7206962228" style="color: #1a1a1a;">720-696-2228</a>
+</section>
+
+<footer>
+  &copy; 2025 Cardoza’s Detailing – Interior Only Services
+</footer>
+
+</body>
+</html>
